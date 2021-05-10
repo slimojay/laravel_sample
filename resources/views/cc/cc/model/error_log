@@ -1,0 +1,1390 @@
+[08-Feb-2021 14:44:52 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:44:52 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:44:52 UTC] PHP Warning:  include(): Failed opening '../Procedure/procedures.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:44:52 UTC] PHP Warning:  Declaration of CMC_Controller::connect() should be compatible with BaseClass::connect($user, $pass, $dbname) in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 4
+[08-Feb-2021 14:44:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:12
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php(7): CMC_Controller->login(NULL, NULL)
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 12
+[08-Feb-2021 14:47:13 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:47:13 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:47:13 UTC] PHP Warning:  include(): Failed opening '../Procedure/procedures.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:47:13 UTC] PHP Warning:  Declaration of CMC_Controller::connect() should be compatible with BaseClass::connect($user, $pass, $dbname) in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 4
+[08-Feb-2021 14:47:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:12
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php(7): CMC_Controller->login(NULL, NULL)
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 12
+[08-Feb-2021 14:48:37 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:48:37 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:48:37 UTC] PHP Warning:  include(): Failed opening '../Procedure/procedures.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:48:37 UTC] PHP Warning:  Declaration of CMC_Controller::connect() should be compatible with BaseClass::connect($user, $pass, $dbname) in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 4
+[08-Feb-2021 14:48:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:12
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php(7): CMC_Controller->login(NULL, NULL)
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 12
+[08-Feb-2021 14:48:41 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:48:41 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:48:41 UTC] PHP Warning:  include(): Failed opening '../Procedure/procedures.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:48:41 UTC] PHP Warning:  Declaration of CMC_Controller::connect() should be compatible with BaseClass::connect($user, $pass, $dbname) in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 4
+[08-Feb-2021 14:48:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:12
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php(7): CMC_Controller->login(NULL, NULL)
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 12
+[08-Feb-2021 14:52:04 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:52:04 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:52:04 UTC] PHP Warning:  include(): Failed opening '../Procedure/procedures.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:52:04 UTC] PHP Warning:  Declaration of CMC_Controller::connect() should be compatible with BaseClass::connect($user, $pass, $dbname) in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 4
+[08-Feb-2021 14:52:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:12
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php(7): CMC_Controller->login(NULL, NULL)
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 12
+[08-Feb-2021 14:53:31 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:53:31 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:53:31 UTC] PHP Warning:  include(): Failed opening '../Procedure/procedures.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:53:31 UTC] PHP Warning:  Declaration of CMC_Controller::connect() should be compatible with BaseClass::connect($user, $pass, $dbname) in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 4
+[08-Feb-2021 14:53:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:12
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php(9): CMC_Controller->login(NULL, NULL)
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 12
+[08-Feb-2021 14:53:40 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:53:40 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:53:40 UTC] PHP Warning:  include(): Failed opening '../Procedure/procedures.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:53:40 UTC] PHP Warning:  Declaration of CMC_Controller::connect() should be compatible with BaseClass::connect($user, $pass, $dbname) in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 4
+[08-Feb-2021 14:53:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:12
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php(9): CMC_Controller->login(NULL, NULL)
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 12
+[08-Feb-2021 14:53:44 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:53:44 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:53:44 UTC] PHP Warning:  include(): Failed opening '../Procedure/procedures.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:53:44 UTC] PHP Warning:  Declaration of CMC_Controller::connect() should be compatible with BaseClass::connect($user, $pass, $dbname) in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 4
+[08-Feb-2021 14:53:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:12
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php(9): CMC_Controller->login(NULL, NULL)
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 12
+[08-Feb-2021 14:54:16 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:54:16 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:54:16 UTC] PHP Warning:  include(): Failed opening '../Procedure/procedures.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:54:16 UTC] PHP Warning:  Declaration of CMC_Controller::connect() should be compatible with BaseClass::connect($user, $pass, $dbname) in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 4
+[08-Feb-2021 14:54:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:12
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php(9): CMC_Controller->login(NULL, NULL)
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 12
+[08-Feb-2021 14:54:21 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:54:21 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:54:21 UTC] PHP Warning:  include(): Failed opening '../Procedure/procedures.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:54:21 UTC] PHP Warning:  Declaration of CMC_Controller::connect() should be compatible with BaseClass::connect($user, $pass, $dbname) in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 4
+[08-Feb-2021 14:54:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:12
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php(9): CMC_Controller->login(NULL, NULL)
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 12
+[08-Feb-2021 14:54:22 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:54:22 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:54:22 UTC] PHP Warning:  include(): Failed opening '../Procedure/procedures.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:54:22 UTC] PHP Warning:  Declaration of CMC_Controller::connect() should be compatible with BaseClass::connect($user, $pass, $dbname) in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 4
+[08-Feb-2021 14:54:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:12
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php(9): CMC_Controller->login(NULL, NULL)
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 12
+[08-Feb-2021 14:54:22 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:54:22 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:54:22 UTC] PHP Warning:  include(): Failed opening '../Procedure/procedures.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:54:22 UTC] PHP Warning:  Declaration of CMC_Controller::connect() should be compatible with BaseClass::connect($user, $pass, $dbname) in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 4
+[08-Feb-2021 14:54:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:12
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php(9): CMC_Controller->login(NULL, NULL)
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 12
+[08-Feb-2021 14:54:23 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:54:23 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:54:23 UTC] PHP Warning:  include(): Failed opening '../Procedure/procedures.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:54:23 UTC] PHP Warning:  Declaration of CMC_Controller::connect() should be compatible with BaseClass::connect($user, $pass, $dbname) in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 4
+[08-Feb-2021 14:54:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:12
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php(9): CMC_Controller->login(NULL, NULL)
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 12
+[08-Feb-2021 14:54:23 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:54:23 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:54:23 UTC] PHP Warning:  include(): Failed opening '../Procedure/procedures.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:54:23 UTC] PHP Warning:  Declaration of CMC_Controller::connect() should be compatible with BaseClass::connect($user, $pass, $dbname) in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 4
+[08-Feb-2021 14:54:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:12
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php(9): CMC_Controller->login(NULL, NULL)
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 12
+[08-Feb-2021 14:54:23 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:54:23 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:54:23 UTC] PHP Warning:  include(): Failed opening '../Procedure/procedures.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:54:23 UTC] PHP Warning:  Declaration of CMC_Controller::connect() should be compatible with BaseClass::connect($user, $pass, $dbname) in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 4
+[08-Feb-2021 14:54:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:12
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php(9): CMC_Controller->login(NULL, NULL)
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 12
+[08-Feb-2021 14:54:24 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:54:24 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:54:24 UTC] PHP Warning:  include(): Failed opening '../Procedure/procedures.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:54:24 UTC] PHP Warning:  Declaration of CMC_Controller::connect() should be compatible with BaseClass::connect($user, $pass, $dbname) in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 4
+[08-Feb-2021 14:54:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:12
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php(9): CMC_Controller->login(NULL, NULL)
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 12
+[08-Feb-2021 14:54:24 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:54:24 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:54:24 UTC] PHP Warning:  include(): Failed opening '../Procedure/procedures.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:54:24 UTC] PHP Warning:  Declaration of CMC_Controller::connect() should be compatible with BaseClass::connect($user, $pass, $dbname) in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 4
+[08-Feb-2021 14:54:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:12
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php(9): CMC_Controller->login(NULL, NULL)
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 12
+[08-Feb-2021 14:54:38 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:54:38 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:54:38 UTC] PHP Warning:  include(): Failed opening '../Procedure/procedures.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:54:38 UTC] PHP Warning:  Declaration of CMC_Controller::connect() should be compatible with BaseClass::connect($user, $pass, $dbname) in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 4
+[08-Feb-2021 14:54:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:12
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php(9): CMC_Controller->login(NULL, NULL)
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 12
+[08-Feb-2021 14:54:41 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:54:41 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:54:41 UTC] PHP Warning:  include(): Failed opening '../Procedure/procedures.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:54:41 UTC] PHP Warning:  Declaration of CMC_Controller::connect() should be compatible with BaseClass::connect($user, $pass, $dbname) in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 4
+[08-Feb-2021 14:54:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:12
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php(9): CMC_Controller->login(NULL, NULL)
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 12
+[08-Feb-2021 14:54:41 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:54:41 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:54:41 UTC] PHP Warning:  include(): Failed opening '../Procedure/procedures.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:54:41 UTC] PHP Warning:  Declaration of CMC_Controller::connect() should be compatible with BaseClass::connect($user, $pass, $dbname) in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 4
+[08-Feb-2021 14:54:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:12
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php(9): CMC_Controller->login(NULL, NULL)
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 12
+[08-Feb-2021 14:54:42 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:54:42 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:54:42 UTC] PHP Warning:  include(): Failed opening '../Procedure/procedures.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:54:42 UTC] PHP Warning:  Declaration of CMC_Controller::connect() should be compatible with BaseClass::connect($user, $pass, $dbname) in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 4
+[08-Feb-2021 14:54:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:12
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php(9): CMC_Controller->login(NULL, NULL)
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 12
+[08-Feb-2021 14:55:57 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:55:57 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:55:57 UTC] PHP Warning:  include(): Failed opening '../Procedure/procedures.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:55:57 UTC] PHP Warning:  Declaration of CMC_Controller::connect() should be compatible with BaseClass::connect($user, $pass, $dbname) in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 4
+[08-Feb-2021 14:55:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:12
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php(9): CMC_Controller->login(NULL, NULL)
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 12
+[08-Feb-2021 14:55:58 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:55:58 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:55:58 UTC] PHP Warning:  include(): Failed opening '../Procedure/procedures.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:55:58 UTC] PHP Warning:  Declaration of CMC_Controller::connect() should be compatible with BaseClass::connect($user, $pass, $dbname) in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 4
+[08-Feb-2021 14:55:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:12
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php(9): CMC_Controller->login(NULL, NULL)
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 12
+[08-Feb-2021 14:55:59 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:55:59 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:55:59 UTC] PHP Warning:  include(): Failed opening '../Procedure/procedures.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:55:59 UTC] PHP Warning:  Declaration of CMC_Controller::connect() should be compatible with BaseClass::connect($user, $pass, $dbname) in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 4
+[08-Feb-2021 14:55:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:12
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php(9): CMC_Controller->login(NULL, NULL)
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 12
+[08-Feb-2021 14:55:59 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:55:59 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:55:59 UTC] PHP Warning:  include(): Failed opening '../Procedure/procedures.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:55:59 UTC] PHP Warning:  Declaration of CMC_Controller::connect() should be compatible with BaseClass::connect($user, $pass, $dbname) in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 4
+[08-Feb-2021 14:55:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:12
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php(9): CMC_Controller->login(NULL, NULL)
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 12
+[08-Feb-2021 14:57:20 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:57:20 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:57:20 UTC] PHP Warning:  include(): Failed opening '../Procedure/procedures.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:57:20 UTC] PHP Warning:  Declaration of CMC_Controller::connect() should be compatible with BaseClass::connect($user, $pass, $dbname) in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 4
+[08-Feb-2021 14:57:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:13
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php(9): CMC_Controller->login(NULL, NULL)
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 13
+[08-Feb-2021 14:58:59 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:58:59 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:58:59 UTC] PHP Warning:  include(): Failed opening '../Procedure/procedures.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:58:59 UTC] PHP Warning:  Declaration of CMC_Controller::connect() should be compatible with BaseClass::connect($user, $pass, $dbname) in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 4
+[08-Feb-2021 14:58:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:13
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php(9): CMC_Controller->login(NULL, NULL)
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 13
+[08-Feb-2021 14:59:01 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:59:01 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:59:01 UTC] PHP Warning:  include(): Failed opening '../Procedure/procedures.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:59:01 UTC] PHP Warning:  Declaration of CMC_Controller::connect() should be compatible with BaseClass::connect($user, $pass, $dbname) in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 4
+[08-Feb-2021 14:59:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:13
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php(9): CMC_Controller->login(NULL, NULL)
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 13
+[08-Feb-2021 14:59:18 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:59:18 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:59:18 UTC] PHP Warning:  include(): Failed opening '../Procedure/procedures.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 14:59:18 UTC] PHP Warning:  Declaration of CMC_Controller::connect() should be compatible with BaseClass::connect($user, $pass, $dbname) in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 4
+[08-Feb-2021 14:59:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:13
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php(9): CMC_Controller->login(NULL, NULL)
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 13
+[08-Feb-2021 15:01:33 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 15:01:33 UTC] PHP Warning:  include(../Procedure/procedures.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 15:01:33 UTC] PHP Warning:  include(): Failed opening '../Procedure/procedures.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 3
+[08-Feb-2021 15:01:33 UTC] PHP Warning:  Declaration of CMC_Controller::connect() should be compatible with BaseClass::connect($user, $pass, $dbname) in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 4
+[08-Feb-2021 15:01:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:13
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php(9): CMC_Controller->login('lsmojcom', 'litEMOJ@%2020')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 13
+[08-Feb-2021 15:04:10 UTC] PHP Warning:  Declaration of CMC_Controller::connect() should be compatible with BaseClass::connect($user, $pass, $dbname) in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 4
+[08-Feb-2021 15:04:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:13
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php(9): CMC_Controller->login('lsmojcom', 'dd')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 13
+[08-Feb-2021 15:06:27 UTC] PHP Warning:  Declaration of CMC_Controller::connect() should be compatible with BaseClass::connect($user, $pass, $dbname) in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 4
+[08-Feb-2021 15:06:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:13
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php(9): CMC_Controller->login('lsmojcom', 'dd')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 13
+[08-Feb-2021 15:07:14 UTC] PHP Warning:  Declaration of CMC_Controller::connect() should be compatible with BaseClass::connect($user, $pass, $dbname) in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 4
+[08-Feb-2021 15:07:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:13
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php(9): CMC_Controller->login('lsmojcom', 'dd')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 13
+[08-Feb-2021 15:07:26 UTC] PHP Warning:  Declaration of CMC_Controller::connect() should be compatible with BaseClass::connect($user, $pass, $dbname) in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 4
+[08-Feb-2021 15:07:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:13
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php(9): CMC_Controller->login('lsmojcom', 'litEMOJ@%2020')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 13
+[08-Feb-2021 15:08:34 UTC] PHP Warning:  Declaration of CMC_Controller::connect() should be compatible with BaseClass::connect($user, $pass, $dbname) in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 4
+[08-Feb-2021 15:08:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:14
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php(9): CMC_Controller->login('lsmojcom', 'litEMOJ@%2020')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 14
+[08-Feb-2021 15:09:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:14
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php(9): CMC_Controller->login('lsmojcom', 'litEMOJ@%2020')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 14
+[08-Feb-2021 15:09:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:14
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php(9): CMC_Controller->login('lsmojcom', 'litEMOJ@%2020')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 14
+[08-Feb-2021 15:10:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:14
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php(9): CMC_Controller->login('lsmojcom', 'litEMOJ@%2020')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 14
+[08-Feb-2021 15:10:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:14
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php(9): CMC_Controller->login('lsmojcom', 'litEMOJ@%2020')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 14
+[08-Feb-2021 15:12:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:14
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php(9): CMC_Controller->login('lsmojcom', 'litEMOJ@%2020')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 14
+[08-Feb-2021 15:13:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:14
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php(9): CMC_Controller->login('lsmojcom', 'litEMOJ@%2020')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 14
+[08-Feb-2021 15:13:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:14
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php(9): CMC_Controller->login('lsmojcom', 'litEMOJ@%2020')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 14
+[08-Feb-2021 15:16:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:15
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php(9): CMC_Controller->login('lsmojcom', 'litEMOJ@%2020')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 15
+[08-Feb-2021 15:17:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:15
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php(9): CMC_Controller->login('lsmojcom', 'litEMOJ@%2020')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 15
+[08-Feb-2021 15:18:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:15
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php(9): CMC_Controller->login('lsmojcom', 'litEMOJ@%2020')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 15
+[08-Feb-2021 15:18:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:15
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php(9): CMC_Controller->login('lsmojcom', 'litEMOJ@%2020')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 15
+[08-Feb-2021 15:20:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:15
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php(9): CMC_Controller->login('lsmojcom', 'litEMOJ@%2020')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 15
+[09-Feb-2021 07:31:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:15
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php(9): CMC_Controller->login('ojiodujoachim95...', 'kcjkljkllk')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 15
+[09-Feb-2021 07:35:07 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 12
+[09-Feb-2021 07:35:07 UTC] PHP Notice:  Undefined property: CMC_Controller::$coni in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 19
+[09-Feb-2021 07:35:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:19
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php(9): CMC_Controller->login('ojiodujoachim95...', 'kcjkljkllk')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 19
+[09-Feb-2021 07:35:48 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 12
+[09-Feb-2021 07:35:48 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 19
+[09-Feb-2021 07:35:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:20
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php(9): CMC_Controller->login('ojiodujoachim95...', 'kcjkljkllk')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 20
+[09-Feb-2021 07:37:25 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'lsmojcom_production'@'localhost' (using password: YES) in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 12
+[09-Feb-2021 07:37:25 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 19
+[09-Feb-2021 07:37:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:20
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php(9): CMC_Controller->login('ojiodujoachim95...', 'kcjkljkllk')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 20
+[09-Feb-2021 07:38:41 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'lsmojcom_production'@'localhost' (using password: YES) in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 12
+[09-Feb-2021 07:38:41 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 19
+[09-Feb-2021 07:38:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:20
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php(9): CMC_Controller->login('ojiodujoachim95...', 'kcjkljkllk')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 20
+[09-Feb-2021 07:40:24 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'lsmojcom_production'@'localhost' (using password: YES) in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 12
+[09-Feb-2021 07:40:24 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 19
+[09-Feb-2021 07:40:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:20
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php(9): CMC_Controller->login('ojiodujoachim95...', 'kcjkljkllk')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 20
+[09-Feb-2021 07:40:32 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'lsmojcom_production'@'localhost' (using password: YES) in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 12
+[09-Feb-2021 07:40:32 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 19
+[09-Feb-2021 07:40:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:20
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php(9): CMC_Controller->login('ojiodujoachim95...', 'klkkkk')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 20
+[09-Feb-2021 07:53:33 UTC] PHP Notice:  Undefined index: username in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php on line 7
+[09-Feb-2021 07:53:33 UTC] PHP Notice:  Undefined index: password in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php on line 8
+[09-Feb-2021 08:16:49 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 20
+[09-Feb-2021 08:16:49 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 23
+[09-Feb-2021 12:06:27 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 60
+[11-Feb-2021 07:53:00 UTC] PHP Notice:  Undefined index: username in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php on line 7
+[11-Feb-2021 07:53:00 UTC] PHP Notice:  Undefined index: password in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php on line 8
+[11-Feb-2021 07:55:48 UTC] PHP Notice:  Undefined index: username in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php on line 7
+[11-Feb-2021 07:55:48 UTC] PHP Notice:  Undefined index: password in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php on line 8
+[11-Feb-2021 11:17:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('klf dhjd djd dj...', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('klf dhjd djd dj...', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('klf dhjd djd dj...', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('klf dhjd djd dj...', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('klf dhjd djd', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('klf dhjd d', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('klf dhjd djd dj...', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('klf dhjd djd dj...', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('klf dhjd djd d', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('klf dhjd dj', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('klf dhjd djd dj...', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('klf dhjd djd dj...', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('klf dhjd djd dj', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('klf dhjd djd dj...', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('klf dhjd djd dj...', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('klf dhjd djd dj...', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('klf dhjd djd dj...', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('jd', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('jdjf', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('jdjfjhghgoilhfd...', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('klf dhjd djd dj...', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('klf dhjd djd dj...', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('klf dhjd djd dj...', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('klf dhjd djd dj...', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('klf dhjd djd dj...', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('klf dhjd djd dj...', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('klf dhjd djd dj...', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('klf dhjd djd dj...', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('jdj', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('klf dhjd djd dj...', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('jdjfjhghgoilh', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('j', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('kl', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('jdjfjhghgoi', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('klf dhjd djd dj...', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('klf dhjd djd dj...', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('klf', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('klf dhj', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('jdjfjh', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('klf dhjd', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('jdjfjhghg', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('jdjfjhg', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('klf dh', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('klf dhjd djd dj...', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('klf dhjd djd dj...', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('klf dhjd djd dj...', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('klf dhjd djd dj...', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('klf dhjd djd d', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('klf dhjd djd dj...', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('klf dhjd djd dj...', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('jd', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('jdjfjhghgoilhfd...', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('kl', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('jdjfjhghgoi', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('jdjfjhghgoilh', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('klf dhjd djd dj...', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('jdj', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('jdjf', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('klf dhjd djd dj...', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('klf', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('klf dhj', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('klf dhjd', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('jdjfjhg', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('jdjfjhghg', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('j', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:17:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('jdjfjhghgoilhfd...', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:18:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('m', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:18:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('me', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:18:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('me n', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:18:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:112
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('me', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 112
+[11-Feb-2021 11:24:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:113
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('hh', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 113
+[11-Feb-2021 11:24:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:113
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('h', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 113
+[11-Feb-2021 11:24:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:113
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('hhj', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 113
+[11-Feb-2021 11:41:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:113
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('hhj', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 113
+[11-Feb-2021 11:41:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:113
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('hhj', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 113
+[11-Feb-2021 11:41:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:113
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('h', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 113
+[11-Feb-2021 11:42:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:113
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(5): CMC_Controller->checkIfExists('hm', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 113
+[11-Feb-2021 11:48:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:113
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(6): CMC_Controller->checkIfExists('jh', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 113
+[11-Feb-2021 11:48:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:113
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(6): CMC_Controller->checkIfExists('jh', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 113
+[11-Feb-2021 11:48:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:113
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(6): CMC_Controller->checkIfExists('jh', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 113
+[11-Feb-2021 11:49:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:113
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(6): CMC_Controller->checkIfExists('jh', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 113
+[11-Feb-2021 11:49:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:113
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(6): CMC_Controller->checkIfExists('jh', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 113
+[11-Feb-2021 11:49:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:113
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(6): CMC_Controller->checkIfExists('jh', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 113
+[11-Feb-2021 11:52:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:113
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(6): CMC_Controller->checkIfExists('jh kj', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 113
+[11-Feb-2021 11:52:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:113
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(6): CMC_Controller->checkIfExists('jh kjfds', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 113
+[11-Feb-2021 11:52:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:113
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(6): CMC_Controller->checkIfExists('jh', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 113
+[11-Feb-2021 11:52:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:113
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(6): CMC_Controller->checkIfExists('jh', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 113
+[11-Feb-2021 11:52:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:113
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(6): CMC_Controller->checkIfExists('jh kjf', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 113
+[11-Feb-2021 11:52:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:113
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(6): CMC_Controller->checkIfExists('jh kjfdskj', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 113
+[11-Feb-2021 11:52:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:113
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(6): CMC_Controller->checkIfExists('jh', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 113
+[11-Feb-2021 11:52:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:113
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(6): CMC_Controller->checkIfExists('hf', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 113
+[11-Feb-2021 11:52:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:113
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(6): CMC_Controller->checkIfExists('hf', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 113
+[11-Feb-2021 12:02:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:113
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(6): CMC_Controller->checkIfExists('hf', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 113
+[11-Feb-2021 12:02:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:113
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(6): CMC_Controller->checkIfExists('hf', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 113
+[11-Feb-2021 12:02:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:113
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_center.php(6): CMC_Controller->checkIfExists('hf', 'centers', 'name', 'LIKE', '%')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 113
+[11-Feb-2021 12:04:18 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 114
+[11-Feb-2021 12:04:18 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 114
+[11-Feb-2021 12:04:21 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 114
+[11-Feb-2021 12:04:21 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 114
+[11-Feb-2021 12:06:03 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 114
+[11-Feb-2021 12:06:15 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 114
+[11-Feb-2021 12:06:40 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 114
+[11-Feb-2021 12:06:46 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 114
+[11-Feb-2021 12:08:37 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 114
+[11-Feb-2021 12:15:00 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 114
+[11-Feb-2021 12:15:11 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 114
+[11-Feb-2021 12:15:23 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 114
+[11-Feb-2021 12:15:23 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 114
+[11-Feb-2021 12:17:25 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 114
+[11-Feb-2021 12:17:25 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 114
+[11-Feb-2021 12:17:27 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 114
+[11-Feb-2021 12:19:21 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 114
+[11-Feb-2021 12:19:32 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 114
+[11-Feb-2021 16:55:02 UTC] PHP Notice:  Undefined index: username in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php on line 7
+[11-Feb-2021 16:55:02 UTC] PHP Notice:  Undefined index: password in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/login.php on line 8
+[12-Feb-2021 09:54:02 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/createUser.php:8
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/createUser.php(19): validate('kelechi')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/createUser.php on line 8
+[12-Feb-2021 10:21:58 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/createUser.php:8
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/createUser.php(19): validate('kelechi')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/createUser.php on line 8
+[12-Feb-2021 10:23:20 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/createUser.php:9
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/createUser.php(20): validate('kelechi')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/createUser.php on line 9
+[13-Feb-2021 01:50:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 2
+[18-Feb-2021 10:25:58 UTC] PHP Warning:  include(../../controller/CMC_controller.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/views/portal/header.php on line 3
+[18-Feb-2021 10:25:58 UTC] PHP Warning:  include(../../controller/CMC_controller.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/views/portal/header.php on line 3
+[18-Feb-2021 10:25:58 UTC] PHP Warning:  include(): Failed opening '../../controller/CMC_controller.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/lsmojcom/uche.lsmoj.com.ng/CMC/views/portal/header.php on line 3
+[18-Feb-2021 10:25:58 UTC] PHP Fatal error:  Uncaught Error: Class 'CMC_Controller' not found in /home/lsmojcom/uche.lsmoj.com.ng/CMC/views/portal/header.php:4
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php(3): include()
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/views/portal/header.php on line 4
+[18-Feb-2021 10:26:32 UTC] PHP Warning:  include(../../controller/CMC_controller.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/views/portal/header.php on line 3
+[18-Feb-2021 10:26:32 UTC] PHP Warning:  include(../../controller/CMC_controller.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/views/portal/header.php on line 3
+[18-Feb-2021 10:26:32 UTC] PHP Warning:  include(): Failed opening '../../controller/CMC_controller.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/lsmojcom/uche.lsmoj.com.ng/CMC/views/portal/header.php on line 3
+[18-Feb-2021 10:26:32 UTC] PHP Fatal error:  Uncaught Error: Class 'CMC_Controller' not found in /home/lsmojcom/uche.lsmoj.com.ng/CMC/views/portal/header.php:4
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php(3): include()
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/views/portal/header.php on line 4
+[18-Feb-2021 10:26:34 UTC] PHP Warning:  include(../../controller/CMC_controller.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/views/portal/header.php on line 3
+[18-Feb-2021 10:26:34 UTC] PHP Warning:  include(../../controller/CMC_controller.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/views/portal/header.php on line 3
+[18-Feb-2021 10:26:34 UTC] PHP Warning:  include(): Failed opening '../../controller/CMC_controller.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/lsmojcom/uche.lsmoj.com.ng/CMC/views/portal/header.php on line 3
+[18-Feb-2021 10:26:34 UTC] PHP Fatal error:  Uncaught Error: Class 'CMC_Controller' not found in /home/lsmojcom/uche.lsmoj.com.ng/CMC/views/portal/header.php:4
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php(3): include()
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/views/portal/header.php on line 4
+[18-Feb-2021 10:28:05 UTC] PHP Warning:  include(../../controller/CMC_controller.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/views/portal/header.php on line 3
+[18-Feb-2021 10:28:05 UTC] PHP Warning:  include(../../controller/CMC_controller.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/CMC/views/portal/header.php on line 3
+[18-Feb-2021 10:28:05 UTC] PHP Warning:  include(): Failed opening '../../controller/CMC_controller.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/lsmojcom/uche.lsmoj.com.ng/CMC/views/portal/header.php on line 3
+[18-Feb-2021 10:28:05 UTC] PHP Fatal error:  Uncaught Error: Class 'CMC_Controller' not found in /home/lsmojcom/uche.lsmoj.com.ng/CMC/views/portal/header.php:4
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php(3): include()
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/views/portal/header.php on line 4
+[18-Feb-2021 10:30:09 UTC] PHP Notice:  Undefined index: partya in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 20
+[18-Feb-2021 10:30:09 UTC] PHP Notice:  Undefined index: partyb in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 20
+[18-Feb-2021 12:56:29 UTC] PHP Notice:  Undefined index: partya in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 10
+[18-Feb-2021 12:56:29 UTC] PHP Notice:  Undefined index: partyb in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 10
+[18-Feb-2021 12:56:29 UTC] PHP Notice:  Undefined index: partya in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 11
+[18-Feb-2021 12:56:29 UTC] PHP Notice:  Undefined index: partyb in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 11
+[18-Feb-2021 12:56:29 UTC] PHP Notice:  Undefined index: partyBno in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 11
+[18-Feb-2021 12:56:29 UTC] PHP Notice:  Undefined index: partyAno in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 11
+[18-Feb-2021 12:56:29 UTC] PHP Notice:  Undefined index: title in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 12
+[18-Feb-2021 12:56:29 UTC] PHP Notice:  Undefined index: center in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 12
+[18-Feb-2021 12:56:29 UTC] PHP Notice:  Undefined index: description in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 12
+[18-Feb-2021 12:56:29 UTC] PHP Notice:  Undefined index: regName in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 12
+[18-Feb-2021 12:56:29 UTC] PHP Notice:  Undefined index: regEmail in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 12
+[18-Feb-2021 12:56:29 UTC] PHP Notice:  Undefined index: regPhone in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 13
+[18-Feb-2021 12:56:29 UTC] PHP Notice:  Undefined index: regIncome in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 13
+[18-Feb-2021 12:56:29 UTC] PHP Notice:  Undefined index: regAddress in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 13
+[18-Feb-2021 12:56:29 UTC] PHP Notice:  Undefined index: IDtype in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 13
+[18-Feb-2021 12:56:29 UTC] PHP Notice:  Undefined index: IDno in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 13
+[18-Feb-2021 12:56:29 UTC] PHP Notice:  Undefined index: IDpic in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 13
+[18-Feb-2021 12:56:29 UTC] PHP Notice:  Undefined variable: ct in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 30
+[18-Feb-2021 12:56:29 UTC] PHP Notice:  Undefined variable: cd in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 30
+[18-Feb-2021 12:57:11 UTC] PHP Notice:  Undefined index: partya in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 10
+[18-Feb-2021 12:57:11 UTC] PHP Notice:  Undefined index: partyb in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 10
+[18-Feb-2021 12:57:11 UTC] PHP Notice:  Undefined index: partya in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 11
+[18-Feb-2021 12:57:11 UTC] PHP Notice:  Undefined index: partyb in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 11
+[18-Feb-2021 12:57:11 UTC] PHP Notice:  Undefined index: partyBno in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 11
+[18-Feb-2021 12:57:11 UTC] PHP Notice:  Undefined index: partyAno in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 11
+[18-Feb-2021 12:57:11 UTC] PHP Notice:  Undefined index: title in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 12
+[18-Feb-2021 12:57:11 UTC] PHP Notice:  Undefined index: center in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 12
+[18-Feb-2021 12:57:11 UTC] PHP Notice:  Undefined index: description in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 12
+[18-Feb-2021 12:57:11 UTC] PHP Notice:  Undefined index: regName in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 12
+[18-Feb-2021 12:57:11 UTC] PHP Notice:  Undefined index: regEmail in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 12
+[18-Feb-2021 12:57:11 UTC] PHP Notice:  Undefined index: regPhone in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 13
+[18-Feb-2021 12:57:11 UTC] PHP Notice:  Undefined index: regIncome in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 13
+[18-Feb-2021 12:57:11 UTC] PHP Notice:  Undefined index: regAddress in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 13
+[18-Feb-2021 12:57:11 UTC] PHP Notice:  Undefined index: IDtype in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 13
+[18-Feb-2021 12:57:11 UTC] PHP Notice:  Undefined index: IDno in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 13
+[18-Feb-2021 12:57:11 UTC] PHP Notice:  Undefined index: IDpic in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 13
+[18-Feb-2021 12:57:11 UTC] PHP Notice:  Undefined variable: ct in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 30
+[18-Feb-2021 12:57:11 UTC] PHP Notice:  Undefined variable: cd in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 30
+[18-Feb-2021 12:57:22 UTC] PHP Notice:  Undefined index: partya in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 10
+[18-Feb-2021 12:57:22 UTC] PHP Notice:  Undefined index: partyb in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 10
+[18-Feb-2021 12:57:22 UTC] PHP Notice:  Undefined index: partya in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 11
+[18-Feb-2021 12:57:22 UTC] PHP Notice:  Undefined index: partyb in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 11
+[18-Feb-2021 12:57:22 UTC] PHP Notice:  Undefined index: partyBno in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 11
+[18-Feb-2021 12:57:22 UTC] PHP Notice:  Undefined index: partyAno in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 11
+[18-Feb-2021 12:57:22 UTC] PHP Notice:  Undefined index: title in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 12
+[18-Feb-2021 12:57:22 UTC] PHP Notice:  Undefined index: center in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 12
+[18-Feb-2021 12:57:22 UTC] PHP Notice:  Undefined index: description in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 12
+[18-Feb-2021 12:57:22 UTC] PHP Notice:  Undefined index: regName in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 12
+[18-Feb-2021 12:57:22 UTC] PHP Notice:  Undefined index: regEmail in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 12
+[18-Feb-2021 12:57:22 UTC] PHP Notice:  Undefined index: regPhone in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 13
+[18-Feb-2021 12:57:22 UTC] PHP Notice:  Undefined index: regIncome in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 13
+[18-Feb-2021 12:57:22 UTC] PHP Notice:  Undefined index: regAddress in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 13
+[18-Feb-2021 12:57:22 UTC] PHP Notice:  Undefined index: IDtype in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 13
+[18-Feb-2021 12:57:22 UTC] PHP Notice:  Undefined index: IDno in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 13
+[18-Feb-2021 12:57:22 UTC] PHP Notice:  Undefined index: IDpic in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 13
+[18-Feb-2021 12:57:22 UTC] PHP Notice:  Undefined variable: ct in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 30
+[18-Feb-2021 12:57:22 UTC] PHP Notice:  Undefined variable: cd in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 30
+[18-Feb-2021 12:58:31 UTC] PHP Notice:  Undefined variable: partya in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 20
+[18-Feb-2021 12:58:31 UTC] PHP Notice:  Undefined variable: title in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 30
+[18-Feb-2021 12:58:31 UTC] PHP Notice:  Undefined variable: partya in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 30
+[18-Feb-2021 12:58:31 UTC] PHP Notice:  Undefined variable: partyb in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 30
+[18-Feb-2021 12:58:31 UTC] PHP Notice:  Undefined variable: regnum in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 30
+[18-Feb-2021 12:58:31 UTC] PHP Notice:  Undefined variable: regname in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 30
+[18-Feb-2021 12:58:31 UTC] PHP Notice:  Undefined variable: regem in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 30
+[18-Feb-2021 12:58:31 UTC] PHP Notice:  Undefined variable: ra in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 30
+[18-Feb-2021 12:58:31 UTC] PHP Notice:  Undefined variable: mid in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 31
+[18-Feb-2021 12:58:31 UTC] PHP Notice:  Undefined variable: id_num in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 31
+[18-Feb-2021 12:58:31 UTC] PHP Notice:  Undefined variable: ct in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 31
+[18-Feb-2021 12:58:31 UTC] PHP Notice:  Undefined variable: cd in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 31
+[18-Feb-2021 12:58:31 UTC] PHP Notice:  Undefined variable: pac in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 31
+[18-Feb-2021 12:58:31 UTC] PHP Notice:  Undefined variable: pbc in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 31
+[18-Feb-2021 12:58:31 UTC] PHP Notice:  Undefined variable: center in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 31
+[18-Feb-2021 12:58:31 UTC] PHP Notice:  Undefined variable: IDpic in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 31
+[19-Feb-2021 10:54:29 UTC] PHP Notice:  Undefined variable: ct in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 34
+[19-Feb-2021 10:54:29 UTC] PHP Notice:  Undefined variable: cd in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 34
+[19-Feb-2021 10:57:24 UTC] PHP Notice:  Undefined index: caseCenter in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 12
+[19-Feb-2021 10:57:24 UTC] PHP Notice:  Undefined variable: cd in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 34
+[19-Feb-2021 10:57:57 UTC] PHP Notice:  Undefined variable: cd in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 34
+[19-Feb-2021 12:37:58 UTC] PHP Notice:  Undefined index: IDpic in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/BaseClass.php on line 226
+[19-Feb-2021 12:46:44 UTC] PHP Notice:  Undefined index: IDpic in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/BaseClass.php on line 226
+[19-Feb-2021 12:49:43 UTC] PHP Notice:  Undefined index: IDpic in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/BaseClass.php on line 226
+[19-Feb-2021 12:49:53 UTC] PHP Notice:  Undefined index: IDpic in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/BaseClass.php on line 226
+[19-Feb-2021 12:50:34 UTC] PHP Notice:  Undefined index: IDpic in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/BaseClass.php on line 226
+[19-Feb-2021 12:58:07 UTC] PHP Notice:  Undefined index: IDpic in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/BaseClass.php on line 226
+[19-Feb-2021 13:03:23 UTC] PHP Notice:  Undefined index: IDpic in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/BaseClass.php on line 226
+[19-Feb-2021 13:10:08 UTC] PHP Notice:  Undefined index: IDpic in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/BaseClass.php on line 226
+[19-Feb-2021 13:13:34 UTC] PHP Notice:  Undefined index: IDpic in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/BaseClass.php on line 226
+[19-Feb-2021 13:14:20 UTC] PHP Notice:  Undefined index: IDpic in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/BaseClass.php on line 226
+[19-Feb-2021 13:14:42 UTC] PHP Notice:  Undefined index: IDpic in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/BaseClass.php on line 226
+[19-Feb-2021 13:16:59 UTC] PHP Notice:  Undefined index: IDpic in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/BaseClass.php on line 226
+[19-Feb-2021 13:17:17 UTC] PHP Notice:  Undefined index: IDpic in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/BaseClass.php on line 226
+[19-Feb-2021 13:19:36 UTC] PHP Notice:  Undefined index: IDpic in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/BaseClass.php on line 226
+[19-Feb-2021 13:19:48 UTC] PHP Notice:  Undefined index: IDpic in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 13
+[19-Feb-2021 13:20:27 UTC] PHP Notice:  Undefined variable: IDpic in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 38
+[19-Feb-2021 13:22:19 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function CMC_Controller::createCase(), 14 passed in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/finish_case.php on line 14 and exactly 15 expected in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php:775
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/finish_case.php(14): CMC_Controller->createCase(NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, NULL)
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 775
+[19-Feb-2021 13:30:09 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 793
+[19-Feb-2021 13:30:09 UTC] PHP Notice:  Undefined variable: status in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 795
+[19-Feb-2021 13:30:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/BaseClass.php:188
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php(796): BaseClass->insert('cases', Array, Array)
+#1 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/finish_case.php(14): CMC_Controller->createCase('', '', '', '', '', '', '', '', '', '', '', '', '', 1, NULL, NULL)
+#2 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/BaseClass.php on line 188
+[19-Feb-2021 13:30:37 UTC] PHP Notice:  Undefined variable: status in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 795
+[19-Feb-2021 13:30:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/BaseClass.php:188
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php(796): BaseClass->insert('cases', Array, Array)
+#1 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/finish_case.php(14): CMC_Controller->createCase('', '', '', '', '', '', '', '', '', '', '', '', '', 1, NULL, NULL)
+#2 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/BaseClass.php on line 188
+[19-Feb-2021 13:35:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/BaseClass.php:188
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php(797): BaseClass->insert('cases', Array, Array)
+#1 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/finish_case.php(14): CMC_Controller->createCase('', '', '', '', '', '', '', '', '', '', '', '', '', 1, NULL, NULL)
+#2 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/BaseClass.php on line 188
+[19-Feb-2021 13:37:32 UTC] PHP Notice:  Trying to get property 'insert_id' of non-object in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/BaseClass.php on line 192
+[19-Feb-2021 13:37:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rollback() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/BaseClass.php:196
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php(797): BaseClass->insert('cases', Array, Array)
+#1 /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/finish_case.php(14): CMC_Controller->createCase('', '', '', '', '', '', '', '', '', '', '', '', '', 1, NULL, NULL)
+#2 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/BaseClass.php on line 196
+[19-Feb-2021 13:39:03 UTC] PHP Notice:  Undefined property: CMC_Controller::$outcome in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 799
+[19-Feb-2021 13:39:03 UTC] PHP Notice:  Undefined property: CMC_Controller::$outcome in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 800
+[21-Feb-2021 02:53:39 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 801
+[21-Feb-2021 03:06:00 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 39
+[21-Feb-2021 03:10:51 UTC] PHP Warning:  Use of undefined constant title - assumed 'title' (this will throw an Error in a future version of PHP) in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/finish_case.php on line 14
+[21-Feb-2021 03:11:12 UTC] PHP Notice:  Trying to get property 'title' of non-object in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/finish_case.php on line 14
+[21-Feb-2021 18:16:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function createCase() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/finish_case.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/finish_case.php on line 17
+[21-Feb-2021 18:17:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function createCase() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/finish_case.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/finish_case.php on line 17
+[21-Feb-2021 18:18:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function createCase() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/finish_case.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/finish_case.php on line 17
+[21-Feb-2021 18:19:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function createCase() on null in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/finish_case.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/finish_case.php on line 17
+[21-Feb-2021 18:21:25 UTC] PHP Notice:  Undefined index: regadd in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/finish_case.php on line 16
+[21-Feb-2021 18:21:25 UTC] PHP Notice:  Undefined index: mid in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/finish_case.php on line 16
+[21-Feb-2021 18:23:25 UTC] PHP Notice:  Undefined index: regadd in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/finish_case.php on line 16
+[21-Feb-2021 18:23:25 UTC] PHP Notice:  Undefined index: mid in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/finish_case.php on line 16
+[21-Feb-2021 18:23:28 UTC] PHP Notice:  Undefined index: regadd in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/finish_case.php on line 16
+[21-Feb-2021 18:23:28 UTC] PHP Notice:  Undefined index: mid in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/finish_case.php on line 16
+[21-Feb-2021 18:24:03 UTC] PHP Notice:  Undefined index: regadd in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/finish_case.php on line 16
+[21-Feb-2021 18:26:37 UTC] PHP Notice:  Undefined index: regadd in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/finish_case.php on line 16
+[21-Feb-2021 18:31:44 UTC] PHP Notice:  Undefined index: regadd in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/finish_case.php on line 16
+[21-Feb-2021 18:34:31 UTC] PHP Notice:  Undefined index: regadd in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/finish_case.php on line 16
+[21-Feb-2021 18:37:37 UTC] PHP Notice:  Undefined index: regadd in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/finish_case.php on line 16
+[21-Feb-2021 18:39:01 UTC] PHP Notice:  Undefined index: regadd in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/finish_case.php on line 16
+[21-Feb-2021 18:39:56 UTC] PHP Notice:  Undefined index: regadd in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/finish_case.php on line 16
+[21-Feb-2021 18:42:37 UTC] PHP Notice:  Undefined variable: regadd in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/create_case.php on line 38
+[22-Feb-2021 12:06:13 UTC] PHP Fatal error:  Redefinition of parameter $rn in /home/lsmojcom/uche.lsmoj.com.ng/CMC/controller/CMC_controller.php on line 790
+[24-Feb-2021 09:12:03 UTC] PHP Notice:  Undefined variable: _SESSION in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/createUser.php on line 38
+[24-Feb-2021 12:06:44 UTC] PHP Notice:  Undefined variable: _SESSION in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/createUser.php on line 38
+[24-Feb-2021 14:17:45 UTC] PHP Notice:  Undefined index: concern in /home/lsmojcom/uche.lsmoj.com.ng/CMC/model/createUser.php on line 38
+[26-Feb-2021 11:44:22 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php on line 2
+[26-Feb-2021 11:44:22 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php on line 2
+[26-Feb-2021 11:44:22 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php on line 2
+[26-Feb-2021 11:44:22 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php on line 49
+[26-Feb-2021 11:44:22 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php on line 49
+[26-Feb-2021 11:44:22 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php on line 49
+[26-Feb-2021 11:44:58 UTC] PHP Warning:  include(../../controller/CMC_controller.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/cc/views/portal/header.php on line 3
+[26-Feb-2021 11:44:58 UTC] PHP Warning:  include(../../controller/CMC_controller.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/cc/views/portal/header.php on line 3
+[26-Feb-2021 11:44:58 UTC] PHP Warning:  include(): Failed opening '../../controller/CMC_controller.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/lsmojcom/uche.lsmoj.com.ng/cc/views/portal/header.php on line 3
+[26-Feb-2021 11:44:58 UTC] PHP Fatal error:  Uncaught Error: Class 'CMC_Controller' not found in /home/lsmojcom/uche.lsmoj.com.ng/cc/views/portal/header.php:4
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php(2): include()
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/cc/views/portal/header.php on line 4
+[26-Feb-2021 11:45:47 UTC] PHP Warning:  include(../../controller/CMC_controller.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/cc/views/portal/header.php on line 3
+[26-Feb-2021 11:45:47 UTC] PHP Warning:  include(../../controller/CMC_controller.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/cc/views/portal/header.php on line 3
+[26-Feb-2021 11:45:47 UTC] PHP Warning:  include(): Failed opening '../../controller/CMC_controller.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/lsmojcom/uche.lsmoj.com.ng/cc/views/portal/header.php on line 3
+[26-Feb-2021 11:45:47 UTC] PHP Fatal error:  Uncaught Error: Class 'CMC_Controller' not found in /home/lsmojcom/uche.lsmoj.com.ng/cc/views/portal/header.php:4
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php(2): include()
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/cc/views/portal/header.php on line 4
+[26-Feb-2021 11:55:49 UTC] PHP Notice:  Undefined index: type in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 884
+[26-Feb-2021 11:55:49 UTC] PHP Notice:  Undefined variable: id in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 886
+[26-Feb-2021 11:55:49 UTC] PHP Notice:  Undefined index: type in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 884
+[26-Feb-2021 11:55:49 UTC] PHP Notice:  Undefined variable: id in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 886
+[26-Feb-2021 11:57:27 UTC] PHP Notice:  Undefined variable: id in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 886
+[26-Feb-2021 11:57:27 UTC] PHP Notice:  Undefined variable: id in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 886
+[01-Mar-2021 08:39:39 UTC] PHP Warning:  include(../../controller/CMC_controller.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/cc/views/portal/header.php on line 3
+[01-Mar-2021 08:39:39 UTC] PHP Warning:  include(../../controller/CMC_controller.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/cc/views/portal/header.php on line 3
+[01-Mar-2021 08:39:39 UTC] PHP Warning:  include(): Failed opening '../../controller/CMC_controller.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/lsmojcom/uche.lsmoj.com.ng/cc/views/portal/header.php on line 3
+[01-Mar-2021 08:39:39 UTC] PHP Fatal error:  Uncaught Error: Class 'CMC_Controller' not found in /home/lsmojcom/uche.lsmoj.com.ng/cc/views/portal/header.php:4
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/cc/model/finish_case.php(2): include()
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/cc/views/portal/header.php on line 4
+[01-Mar-2021 08:41:14 UTC] PHP Notice:  Undefined index: title in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/finish_case.php on line 16
+[01-Mar-2021 08:41:14 UTC] PHP Notice:  Undefined index: party_a in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/finish_case.php on line 16
+[01-Mar-2021 08:41:14 UTC] PHP Notice:  Undefined index: party_b in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/finish_case.php on line 16
+[01-Mar-2021 08:41:14 UTC] PHP Notice:  Undefined index: regnum in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/finish_case.php on line 16
+[01-Mar-2021 08:41:14 UTC] PHP Notice:  Undefined index: regem in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/finish_case.php on line 16
+[01-Mar-2021 08:41:14 UTC] PHP Notice:  Undefined index: regname in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/finish_case.php on line 16
+[01-Mar-2021 08:41:14 UTC] PHP Notice:  Undefined index: regadd in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/finish_case.php on line 16
+[01-Mar-2021 08:41:14 UTC] PHP Notice:  Undefined index: mid in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/finish_case.php on line 16
+[01-Mar-2021 08:41:14 UTC] PHP Notice:  Undefined index: id_num in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/finish_case.php on line 16
+[01-Mar-2021 08:41:14 UTC] PHP Notice:  Undefined index: type in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/finish_case.php on line 16
+[01-Mar-2021 08:41:14 UTC] PHP Notice:  Undefined index: desc in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/finish_case.php on line 16
+[01-Mar-2021 08:41:14 UTC] PHP Notice:  Undefined index: pac in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/finish_case.php on line 16
+[01-Mar-2021 08:41:14 UTC] PHP Notice:  Undefined index: pbc in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/finish_case.php on line 16
+[01-Mar-2021 08:41:14 UTC] PHP Notice:  Undefined index: center in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/finish_case.php on line 16
+[01-Mar-2021 08:41:14 UTC] PHP Notice:  Undefined index: path in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/finish_case.php on line 16
+[01-Mar-2021 08:41:14 UTC] PHP Notice:  Undefined index: ref in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/finish_case.php on line 16
+[01-Mar-2021 08:41:14 UTC] PHP Notice:  Undefined index: casecat in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/finish_case.php on line 16
+[01-Mar-2021 08:41:14 UTC] PHP Notice:  Undefined index: rn in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/finish_case.php on line 16
+[01-Mar-2021 08:43:48 UTC] PHP Warning:  include(../../controller/CMC_controller.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/cc/views/portal/header.php on line 3
+[01-Mar-2021 08:43:48 UTC] PHP Warning:  include(../../controller/CMC_controller.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/cc/views/portal/header.php on line 3
+[01-Mar-2021 08:43:48 UTC] PHP Warning:  include(): Failed opening '../../controller/CMC_controller.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/lsmojcom/uche.lsmoj.com.ng/cc/views/portal/header.php on line 3
+[01-Mar-2021 08:43:48 UTC] PHP Fatal error:  Uncaught Error: Class 'CMC_Controller' not found in /home/lsmojcom/uche.lsmoj.com.ng/cc/views/portal/header.php:4
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php(3): include()
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/cc/views/portal/header.php on line 4
+[01-Mar-2021 08:44:33 UTC] PHP Warning:  include(../../controller/CMC_controller.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/cc/views/portal/header.php on line 3
+[01-Mar-2021 08:44:33 UTC] PHP Warning:  include(../../controller/CMC_controller.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/cc/views/portal/header.php on line 3
+[01-Mar-2021 08:44:33 UTC] PHP Warning:  include(): Failed opening '../../controller/CMC_controller.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/lsmojcom/uche.lsmoj.com.ng/cc/views/portal/header.php on line 3
+[01-Mar-2021 08:44:33 UTC] PHP Fatal error:  Uncaught Error: Class 'CMC_Controller' not found in /home/lsmojcom/uche.lsmoj.com.ng/cc/views/portal/header.php:4
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php(3): include()
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/cc/views/portal/header.php on line 4
+[01-Mar-2021 08:44:53 UTC] PHP Warning:  include(../../controller/CMC_controller.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/cc/views/portal/header.php on line 3
+[01-Mar-2021 08:44:53 UTC] PHP Warning:  include(../../controller/CMC_controller.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/cc/views/portal/header.php on line 3
+[01-Mar-2021 08:44:53 UTC] PHP Warning:  include(): Failed opening '../../controller/CMC_controller.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/lsmojcom/uche.lsmoj.com.ng/cc/views/portal/header.php on line 3
+[01-Mar-2021 08:44:53 UTC] PHP Fatal error:  Uncaught Error: Class 'CMC_Controller' not found in /home/lsmojcom/uche.lsmoj.com.ng/cc/views/portal/header.php:4
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php(3): include()
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/cc/views/portal/header.php on line 4
+[01-Mar-2021 08:45:32 UTC] PHP Warning:  include(../../controller/CMC_controller.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/cc/views/portal/header.php on line 3
+[01-Mar-2021 08:45:32 UTC] PHP Warning:  include(../../controller/CMC_controller.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/cc/views/portal/header.php on line 3
+[01-Mar-2021 08:45:32 UTC] PHP Warning:  include(): Failed opening '../../controller/CMC_controller.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/lsmojcom/uche.lsmoj.com.ng/cc/views/portal/header.php on line 3
+[01-Mar-2021 08:45:32 UTC] PHP Fatal error:  Uncaught Error: Class 'CMC_Controller' not found in /home/lsmojcom/uche.lsmoj.com.ng/cc/views/portal/header.php:4
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php(3): include()
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/cc/views/portal/header.php on line 4
+[01-Mar-2021 08:46:10 UTC] PHP Warning:  include(../../controller/CMC_controller.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/cc/views/portal/header.php on line 3
+[01-Mar-2021 08:46:10 UTC] PHP Warning:  include(../../controller/CMC_controller.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/cc/views/portal/header.php on line 3
+[01-Mar-2021 08:46:10 UTC] PHP Warning:  include(): Failed opening '../../controller/CMC_controller.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/lsmojcom/uche.lsmoj.com.ng/cc/views/portal/header.php on line 3
+[01-Mar-2021 08:46:10 UTC] PHP Fatal error:  Uncaught Error: Class 'CMC_Controller' not found in /home/lsmojcom/uche.lsmoj.com.ng/cc/views/portal/header.php:4
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php(3): include()
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/cc/views/portal/header.php on line 4
+[01-Mar-2021 08:49:27 UTC] PHP Warning:  include(../../controller/CMC_controller.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/cc/views/portal/header.php on line 3
+[01-Mar-2021 08:49:27 UTC] PHP Warning:  include(../../controller/CMC_controller.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/cc/views/portal/header.php on line 3
+[01-Mar-2021 08:49:27 UTC] PHP Warning:  include(): Failed opening '../../controller/CMC_controller.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/lsmojcom/uche.lsmoj.com.ng/cc/views/portal/header.php on line 3
+[01-Mar-2021 08:49:27 UTC] PHP Fatal error:  Uncaught Error: Class 'CMC_Controller' not found in /home/lsmojcom/uche.lsmoj.com.ng/cc/views/portal/header.php:4
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php(3): include()
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/cc/views/portal/header.php on line 4
+[01-Mar-2021 08:51:53 UTC] PHP Warning:  include(../../views/portal/header.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php on line 3
+[01-Mar-2021 08:51:53 UTC] PHP Warning:  include(../../views/portal/header.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php on line 3
+[01-Mar-2021 08:51:53 UTC] PHP Warning:  include(): Failed opening '../../views/portal/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php on line 3
+[01-Mar-2021 08:51:53 UTC] PHP Notice:  Undefined variable: app in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php on line 18
+[01-Mar-2021 08:51:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function upload() on null in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php on line 18
+[01-Mar-2021 08:53:00 UTC] PHP Warning:  include(../../controller/CMC_controller.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/cc/views/portal/header.php on line 3
+[01-Mar-2021 08:53:00 UTC] PHP Warning:  include(../../controller/CMC_controller.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/cc/views/portal/header.php on line 3
+[01-Mar-2021 08:53:00 UTC] PHP Warning:  include(): Failed opening '../../controller/CMC_controller.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/lsmojcom/uche.lsmoj.com.ng/cc/views/portal/header.php on line 3
+[01-Mar-2021 08:53:00 UTC] PHP Fatal error:  Uncaught Error: Class 'CMC_Controller' not found in /home/lsmojcom/uche.lsmoj.com.ng/cc/views/portal/header.php:4
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php(3): include()
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/cc/views/portal/header.php on line 4
+[01-Mar-2021 09:14:04 UTC] PHP Notice:  Undefined index: user in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/msv/header.php on line 5
+[01-Mar-2021 09:14:04 UTC] PHP Notice:  Undefined index: concern in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/msv/header.php on line 6
+[01-Mar-2021 09:14:04 UTC] PHP Notice:  Undefined index: user in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/msv/header.php on line 171
+[01-Mar-2021 09:14:04 UTC] PHP Notice:  Undefined index: user in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/msv/header.php on line 177
+[01-Mar-2021 09:14:04 UTC] PHP Notice:  Undefined index: email in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/msv/header.php on line 177
+[01-Mar-2021 09:14:04 UTC] PHP Notice:  Undefined index: last_login in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/msv/header.php on line 178
+[01-Mar-2021 09:14:04 UTC] PHP Notice:  Undefined index: role in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/msv/leftnav.php on line 22
+[01-Mar-2021 09:14:04 UTC] PHP Notice:  Undefined index: role in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/msv/leftnav.php on line 28
+[01-Mar-2021 09:14:04 UTC] PHP Notice:  Undefined index: role in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/msv/leftnav.php on line 40
+[01-Mar-2021 09:14:04 UTC] PHP Notice:  Undefined index: role in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/msv/leftnav.php on line 48
+[02-Mar-2021 11:33:19 UTC] PHP Notice:  Undefined index: partyaAddr in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php on line 14
+[02-Mar-2021 11:33:19 UTC] PHP Notice:  Undefined index: partyBAddr in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php on line 15
+[02-Mar-2021 11:40:33 UTC] PHP Notice:  Undefined index: partyaAddr in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php on line 14
+[02-Mar-2021 12:52:38 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 867
+[02-Mar-2021 12:53:35 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 867
+[02-Mar-2021 12:55:39 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 867
+[02-Mar-2021 13:14:00 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 867
+[02-Mar-2021 13:16:13 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 867
+[02-Mar-2021 13:16:59 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 867
+[02-Mar-2021 13:17:39 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 867
+[02-Mar-2021 13:18:00 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 867
+[02-Mar-2021 13:19:23 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 867
+[02-Mar-2021 13:27:00 UTC] PHP Notice:  Undefined index: type in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 884
+[02-Mar-2021 13:27:00 UTC] PHP Notice:  Undefined variable: id in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 886
+[02-Mar-2021 13:27:00 UTC] PHP Notice:  Undefined index: type in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 884
+[02-Mar-2021 13:27:00 UTC] PHP Notice:  Undefined variable: id in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 886
+[02-Mar-2021 13:27:00 UTC] PHP Notice:  Undefined index: type in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 884
+[02-Mar-2021 13:27:00 UTC] PHP Notice:  Undefined variable: id in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 886
+[02-Mar-2021 13:27:00 UTC] PHP Notice:  Undefined index: type in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 884
+[02-Mar-2021 13:27:00 UTC] PHP Notice:  Undefined variable: id in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 886
+[02-Mar-2021 13:27:00 UTC] PHP Notice:  Undefined index: type in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 884
+[02-Mar-2021 13:27:00 UTC] PHP Notice:  Undefined variable: id in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 886
+[02-Mar-2021 13:27:00 UTC] PHP Notice:  Undefined index: type in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 884
+[02-Mar-2021 13:27:00 UTC] PHP Notice:  Undefined variable: id in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 886
+[02-Mar-2021 13:27:00 UTC] PHP Notice:  Undefined index: type in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 884
+[02-Mar-2021 13:27:00 UTC] PHP Notice:  Undefined variable: id in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 886
+[02-Mar-2021 13:27:00 UTC] PHP Notice:  Undefined index: type in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 884
+[02-Mar-2021 13:27:00 UTC] PHP Notice:  Undefined variable: id in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 886
+[02-Mar-2021 14:02:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method CMC_Controller::getCase() in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php:886
+Stack trace:
+#0 /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php(23): CMC_Controller->intelligence('Mr Sola Hassan ...', 'Mr Sola Hassan', 'Mrs Simbiat Has...', 'Adekunle a Adeo...', '08029077452', 'NIN', '19992')
+#1 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 886
+[02-Mar-2021 14:07:17 UTC] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 886
+[02-Mar-2021 14:07:17 UTC] PHP Warning:  Illegal string offset 'case_type' in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 886
+[02-Mar-2021 14:07:17 UTC] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 886
+[02-Mar-2021 14:07:17 UTC] PHP Warning:  Illegal string offset 'case_type' in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 886
+[02-Mar-2021 14:07:17 UTC] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 886
+[02-Mar-2021 14:07:17 UTC] PHP Warning:  Illegal string offset 'case_type' in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 886
+[02-Mar-2021 14:07:17 UTC] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 886
+[02-Mar-2021 14:07:17 UTC] PHP Warning:  Illegal string offset 'case_type' in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 886
+[02-Mar-2021 14:07:17 UTC] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 886
+[02-Mar-2021 14:07:17 UTC] PHP Warning:  Illegal string offset 'case_type' in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 886
+[02-Mar-2021 14:07:17 UTC] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 886
+[02-Mar-2021 14:07:17 UTC] PHP Warning:  Illegal string offset 'case_type' in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 886
+[02-Mar-2021 14:07:17 UTC] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 886
+[02-Mar-2021 14:07:17 UTC] PHP Warning:  Illegal string offset 'case_type' in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 886
+[02-Mar-2021 14:07:17 UTC] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 886
+[02-Mar-2021 14:07:17 UTC] PHP Warning:  Illegal string offset 'case_type' in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 886
+[02-Mar-2021 14:08:02 UTC] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 886
+[02-Mar-2021 14:08:02 UTC] PHP Warning:  Illegal string offset 'case_type' in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 886
+[02-Mar-2021 14:08:02 UTC] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 886
+[02-Mar-2021 14:08:02 UTC] PHP Warning:  Illegal string offset 'case_type' in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 886
+[02-Mar-2021 14:08:02 UTC] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 886
+[02-Mar-2021 14:08:02 UTC] PHP Warning:  Illegal string offset 'case_type' in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 886
+[02-Mar-2021 14:08:02 UTC] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 886
+[02-Mar-2021 14:08:02 UTC] PHP Warning:  Illegal string offset 'case_type' in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 886
+[02-Mar-2021 14:08:02 UTC] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 886
+[02-Mar-2021 14:08:02 UTC] PHP Warning:  Illegal string offset 'case_type' in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 886
+[02-Mar-2021 14:08:02 UTC] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 886
+[02-Mar-2021 14:08:02 UTC] PHP Warning:  Illegal string offset 'case_type' in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 886
+[02-Mar-2021 14:08:02 UTC] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 886
+[02-Mar-2021 14:08:02 UTC] PHP Warning:  Illegal string offset 'case_type' in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 886
+[02-Mar-2021 14:08:02 UTC] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 886
+[02-Mar-2021 14:08:02 UTC] PHP Warning:  Illegal string offset 'case_type' in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 886
+[02-Mar-2021 14:15:07 UTC] PHP Notice:  Undefined property: CMC_Controller::$intelligence in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php on line 27
+[02-Mar-2021 14:16:12 UTC] PHP Notice:  Undefined property: CMC_Controller::$intelligence in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php on line 27
+[02-Mar-2021 14:16:57 UTC] PHP Notice:  Undefined property: CMC_Controller::$intelligence in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php on line 27
+[09-Mar-2021 10:30:13 UTC] PHP Notice:  Undefined property: CMC_Controller::$newname in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php on line 68
+[09-Mar-2021 10:30:37 UTC] PHP Notice:  Undefined property: CMC_Controller::$newname in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php on line 68
+[09-Mar-2021 10:33:07 UTC] PHP Notice:  Undefined property: CMC_Controller::$newname in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php on line 68
+[09-Mar-2021 10:34:13 UTC] PHP Notice:  Undefined property: CMC_Controller::$newname in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php on line 68
+[09-Mar-2021 10:35:25 UTC] PHP Notice:  Undefined variable: _FILE in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php on line 21
+[09-Mar-2021 10:35:25 UTC] PHP Notice:  Undefined property: CMC_Controller::$newname in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php on line 24
+[09-Mar-2021 10:35:25 UTC] PHP Notice:  Undefined property: CMC_Controller::$newname in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php on line 68
+[09-Mar-2021 10:35:44 UTC] PHP Notice:  Undefined property: CMC_Controller::$newname in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php on line 24
+[09-Mar-2021 10:35:44 UTC] PHP Notice:  Undefined property: CMC_Controller::$newname in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php on line 68
+[09-Mar-2021 12:24:04 UTC] PHP Notice:  Undefined index: user in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/msv/header.php on line 5
+[09-Mar-2021 12:24:04 UTC] PHP Notice:  Undefined index: concern in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/msv/header.php on line 6
+[09-Mar-2021 12:24:04 UTC] PHP Notice:  Undefined index: user in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/msv/header.php on line 171
+[09-Mar-2021 12:24:04 UTC] PHP Notice:  Undefined index: user in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/msv/header.php on line 177
+[09-Mar-2021 12:24:04 UTC] PHP Notice:  Undefined index: email in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/msv/header.php on line 177
+[09-Mar-2021 12:24:04 UTC] PHP Notice:  Undefined index: last_login in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/msv/header.php on line 178
+[09-Mar-2021 12:24:04 UTC] PHP Notice:  Undefined index: role in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/msv/leftnav.php on line 22
+[09-Mar-2021 12:24:04 UTC] PHP Notice:  Undefined index: role in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/msv/leftnav.php on line 28
+[09-Mar-2021 12:24:04 UTC] PHP Notice:  Undefined index: role in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/msv/leftnav.php on line 40
+[09-Mar-2021 12:24:04 UTC] PHP Notice:  Undefined index: role in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/msv/leftnav.php on line 48
+[09-Mar-2021 12:27:21 UTC] PHP Warning:  include(../../views/portal/header.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php on line 3
+[09-Mar-2021 12:27:21 UTC] PHP Warning:  include(../../views/portal/header.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php on line 3
+[09-Mar-2021 12:27:21 UTC] PHP Warning:  include(): Failed opening '../../views/portal/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php on line 3
+[09-Mar-2021 12:27:21 UTC] PHP Warning:  include(../../views/portal/leftnav.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php on line 4
+[09-Mar-2021 12:27:21 UTC] PHP Warning:  include(../../views/portal/leftnav.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php on line 4
+[09-Mar-2021 12:27:21 UTC] PHP Warning:  include(): Failed opening '../../views/portal/leftnav.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php on line 4
+[09-Mar-2021 12:27:21 UTC] PHP Notice:  Undefined variable: app in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php on line 22
+[09-Mar-2021 12:27:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function upload() on null in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php on line 22
+[09-Mar-2021 12:27:50 UTC] PHP Warning:  include(../../views/portal/header.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php on line 3
+[09-Mar-2021 12:27:50 UTC] PHP Warning:  include(../../views/portal/header.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php on line 3
+[09-Mar-2021 12:27:50 UTC] PHP Warning:  include(): Failed opening '../../views/portal/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php on line 3
+[09-Mar-2021 12:27:50 UTC] PHP Warning:  include(../../views/portal/leftnav.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php on line 4
+[09-Mar-2021 12:27:50 UTC] PHP Warning:  include(../../views/portal/leftnav.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php on line 4
+[09-Mar-2021 12:27:50 UTC] PHP Warning:  include(): Failed opening '../../views/portal/leftnav.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php on line 4
+[09-Mar-2021 12:27:50 UTC] PHP Notice:  Undefined variable: app in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php on line 22
+[09-Mar-2021 12:27:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function upload() on null in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php on line 22
+[09-Mar-2021 12:27:59 UTC] PHP Warning:  include(../../views/portal/header.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php on line 3
+[09-Mar-2021 12:27:59 UTC] PHP Warning:  include(../../views/portal/header.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php on line 3
+[09-Mar-2021 12:27:59 UTC] PHP Warning:  include(): Failed opening '../../views/portal/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php on line 3
+[09-Mar-2021 12:27:59 UTC] PHP Warning:  include(../../views/portal/leftnav.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php on line 4
+[09-Mar-2021 12:27:59 UTC] PHP Warning:  include(../../views/portal/leftnav.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php on line 4
+[09-Mar-2021 12:27:59 UTC] PHP Warning:  include(): Failed opening '../../views/portal/leftnav.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php on line 4
+[09-Mar-2021 12:27:59 UTC] PHP Notice:  Undefined variable: app in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php on line 22
+[09-Mar-2021 12:27:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function upload() on null in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/create_case.php on line 22
+[29-Mar-2021 12:18:52 UTC] PHP Notice:  Undefined variable: idnum in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 889
+[29-Mar-2021 12:19:00 UTC] PHP Notice:  Undefined variable: idnum in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 889
+[29-Mar-2021 12:19:31 UTC] PHP Notice:  Undefined variable: idnum in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 889
+[06-Apr-2021 07:34:19 UTC] PHP Fatal error:  Cannot redeclare CMC_Controller::editCase() in /home/lsmojcom/uche.lsmoj.com.ng/cc/controller/CMC_controller.php on line 1741
+[07-Apr-2021 10:02:14 UTC] PHP Notice:  Undefined index: username in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/login.php on line 7
+[07-Apr-2021 10:02:14 UTC] PHP Notice:  Undefined index: password in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/login.php on line 8
+[08-Apr-2021 14:50:50 UTC] PHP Notice:  Undefined index: id in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/editProfile.php on line 8
+[08-Apr-2021 14:53:08 UTC] PHP Notice:  Undefined variable: id in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/editProfile.php on line 32
+[08-Apr-2021 14:56:06 UTC] PHP Notice:  Undefined index: id in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/editProfile.php on line 8

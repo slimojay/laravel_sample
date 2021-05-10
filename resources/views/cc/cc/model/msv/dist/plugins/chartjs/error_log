@@ -1,0 +1,14 @@
+[01-Mar-2021 08:59:19 UTC] PHP Warning:  include(../../../../../controller/CMC_controller.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/dist/plugins/chartjs/chart-int.php on line 3
+[01-Mar-2021 08:59:19 UTC] PHP Warning:  include(../../../../../controller/CMC_controller.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/dist/plugins/chartjs/chart-int.php on line 3
+[01-Mar-2021 08:59:19 UTC] PHP Warning:  include(): Failed opening '../../../../../controller/CMC_controller.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/dist/plugins/chartjs/chart-int.php on line 3
+[01-Mar-2021 08:59:19 UTC] PHP Fatal error:  Uncaught Error: Class 'CMC_Controller' not found in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/dist/plugins/chartjs/chart-int.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/dist/plugins/chartjs/chart-int.php on line 4
+[01-Mar-2021 08:59:39 UTC] PHP Warning:  include(../../../../../controller/CMC_controller.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/dist/plugins/chartjs/chart-int.php on line 3
+[01-Mar-2021 08:59:39 UTC] PHP Warning:  include(../../../../../controller/CMC_controller.php): failed to open stream: No such file or directory in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/dist/plugins/chartjs/chart-int.php on line 3
+[01-Mar-2021 08:59:39 UTC] PHP Warning:  include(): Failed opening '../../../../../controller/CMC_controller.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/dist/plugins/chartjs/chart-int.php on line 3
+[01-Mar-2021 08:59:39 UTC] PHP Fatal error:  Uncaught Error: Class 'CMC_Controller' not found in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/dist/plugins/chartjs/chart-int.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/lsmojcom/uche.lsmoj.com.ng/cc/model/dist/plugins/chartjs/chart-int.php on line 4
