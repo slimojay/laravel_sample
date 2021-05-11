@@ -83,8 +83,10 @@ class Orphanage extends Controller
         $url = Route('index');
         $files = $request->file('IDpic');
         //echo $files;
+        $rn = rand(999, 9999);
+        $date = date("d-m-Y");
             //$this->upload('IDpic', 'uploads', true,  array('jpg', 'jpeg', 'png'), 0);
-            $name_o = $files->getClientOriginalName();
+            $name_o = $rn. "/" . $date . "/" . $files->getClientOriginalName();
             $files->move('uploads', $name_o);
         
         $ins = \App\Models\children::create(["name" => $request->name, "date_found" => $request->df, "time_found" => $request->tf, "age" => $request->age, "gender" => $request->gender, "photo" => $name_o]);
@@ -94,5 +96,41 @@ class Orphanage extends Controller
             echo "<script>alert('process failed'); window.location='$url'</script>";
         }
     }
+
+    public function listChildren(){
+      $sel = \App\Models\children::select('name', 'gender', 'age', 'date_found', \App\Models\children::raw("CASE WHEN gender = 1 THEN 'male' WHEN gender = 2 THEN 'female' ELSE 'unknown' END AS gen"))->orderBy('id', 'desc')->get();
+      return view('list_children', ["query" => $sel, "count" => 0]);
+    }
+
+    public function postListChildren(Request $req){
+      $sql = "SELECT *, CASE WHEN gender = 1 THEN 'male' WHEN gender = 2 THEN 'female' ELSE 'unknown' END AS gen FROM childrens WHERE 1";
+      if ($req->age != ''){
+        $sql .= " AND age = '$req->age'";
+      }
+      if ($req->gender != ''){
+        $sql .= " AND gender = '$req->gender'";
+      }
+      $sel = \DB::select($sql);
+      /*if ($req->age != ''){
+        $sql = $sql->where('age', $req->age);
+      }
+      if ($req->gender != ''){
+        $sql = $sql->where('gender', $req->gender);
+      }*/
+      if (count($sel) > 0){
+        return view('list_children', ["query" => $sel, "count" => 0]);
+      }else{
+        return view('list_children', ["querystr" => "no data to display", "count" => 0]);
+      }
+
+    }
+    public function states(){
+  $states = array('abia', 'adamawa', 'akwa-ibom', 'anambra', 'bauchi', 'bayelsa', 'benue', 'borno', 'cross river', 'delta', 'ebonyi', 'edo', 'ekiti', 'enugu',
+  'gombe', 'imo', 'jigawa', 'kaduna', 'kano', 'katsina', 'kebbi', 'kogi', 'kwara', 'lagos', 'niger', 'ogun', 'ondo', 'osun', 'oyo', 'plateau', 'rivers', 'sokoto',
+  'taraba', 'yobe', 'zamfara');
+  //$this->states = $states;
+  return $states;
+  
+}
     
 }
