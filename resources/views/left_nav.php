@@ -11,9 +11,9 @@
       <!-- sidebar menu: : style can be found in sidebar.less -->
       <ul class="sidebar-menu" data-widget="tree">
         <li class="header">Menu <span class='fa fa-menu'></span></li>
-        <li class=""> <a href="index"> <i class="fa fa-home"></i> <span>Home</span> </a>
+        <li class=""> <a href="/"> <i class="fa fa-home"></i> <span>Home</span> </a>
         </li>
-        <li class=""> <a href="#"> <i class="fa fa-users"></i> <span>Children</span> <!--<span class="pull-right-container"> <i class="fa fa-angle-left pull-right"></i> </span>--> </a>
+        <li class=""> <a href="children"> <i class="fa fa-users"></i> <span>Children</span> <!--<span class="pull-right-container"> <i class="fa fa-angle-left pull-right"></i> </span>--> </a>
           <!--<ul class="treeview-menu">
             <li><a href="male">Male</a></li>
             <li><a href="female">Female</a></li>
@@ -22,6 +22,10 @@
         <li> <a href="request"> <i class="fa fa-briefcase "></i> <span>Requests</span> </a>
 
         </li>
+          <li> <a href="meeting"> <i class="fa fa-calendar "></i> <span>Appointments</span> </a>
+
+        </li>
+
         <li class=""> <a href="infographics"> <i class="fa fa-pie-chart"></i> <span>Infographics</span> </a>
         </li>
         <li class=""><a href="logout"><i class="fa fa-external-link"></i> <span>Log Out</span></a></li>
