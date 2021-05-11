@@ -7,7 +7,7 @@ include('left_nav.php');
 fieldset{margin-left:40px; max-width:100%; padding:10px}
 
   }
-  label{color:yellowgreen}
+  label{color:black}
 </style>
   
 
@@ -39,7 +39,7 @@ fieldset{margin-left:40px; max-width:100%; padding:10px}
       <!-- Small boxes (Stat box) -->
       <div class="row">
         <div class="col-lg-3 col-sm-6 col-xs-12">
-          <div class="info-box bg-darkblue" style='background-color:yellowgreen !important'> <span class="info-box-icon bg-transparent"><i class="fa fa-users text-white"></i></span>
+          <div class="info-box bg-darkblue" style='background-color:black !important'> <span class="info-box-icon bg-transparent"><i class="fa fa-users text-white"></i></span>
             <div class="info-box-content">
               <h6 class="info-box-text text-white">Children</h6>
               <h1 class="text-white"><?php echo $all; ?></h1>
@@ -50,7 +50,7 @@ fieldset{margin-left:40px; max-width:100%; padding:10px}
         </div>
         <!-- /.col -->
         <div class="col-lg-3 col-sm-6 col-xs-12">
-          <div class="info-box bg-green text-white" style='background-color:yellowgreen !important'> <span class="info-box-icon bg-transparent"><i class="fa fa-user"></i></span>
+          <div class="info-box bg-green text-white" style='background-color:black !important'> <span class="info-box-icon bg-transparent"><i class="fa fa-user"></i></span>
             <div class="info-box-content">
               <h6 class="info-box-text text-white">Male</h6>
               <h1 class="text-white"><?php echo $male; ?></h1>
@@ -61,7 +61,7 @@ fieldset{margin-left:40px; max-width:100%; padding:10px}
         </div>
         <!-- /.col -->
         <div class="col-lg-3 col-sm-6 col-xs-12">
-          <div class="info-box bg-aqua" style='background-color:yellowgreen !important'> <span class="info-box-icon bg-transparent"><i class="fa fa-user"></i></span>
+          <div class="info-box bg-aqua" style='background-color:black !important'> <span class="info-box-icon bg-transparent"><i class="fa fa-user"></i></span>
             <div class="info-box-content">
               <h6 class="info-box-text text-white">Female</h6>
               <h1 class="text-white"><?php echo $female; ?></h1>
@@ -72,7 +72,7 @@ fieldset{margin-left:40px; max-width:100%; padding:10px}
         </div>
         <!-- /.col -->
         <div class="col-lg-3 col-sm-6 col-xs-12">
-          <div class="info-box bg-orange" style='background-color:yellowgreen !important'> <span class="info-box-icon bg-transparent"><i class="fa fa-card"></i></span>
+          <div class="info-box bg-orange" style='background-color:#191d14 !important'> <span class="info-box-icon bg-transparent"><i class="fa fa-card"></i></span>
             <div class="info-box-content">
               <h6 class="info-box-text text-white">Total Requests</h6>
               <h1 class="text-white"><?php echo $offers; ?></h1>
@@ -94,7 +94,7 @@ fieldset{margin-left:40px; max-width:100%; padding:10px}
 
      <div class="form-group col-lg-6 col-sm-12 col">
        <label>Name Of Child</label>
-        <input type='text' name='name' id='name' minlength='2' class='form-control' placeholder="e.g Sumaya">
+        <input type='text' name='name' id='name' required minlength='2' class='form-control' placeholder="e.g Sumaya">
 
       </div>
 
@@ -143,7 +143,7 @@ fieldset{margin-left:40px; max-width:100%; padding:10px}
        </div>
 
       <div class="form-group col-lg-6 col-sm-12" style="margin-top:30px">
-      <button type='submit' name='sub' class='btn  btn-lg' style='background-color:yellowgreen'>Enroll</button>
+      <button type='submit' name='sub' class='btn  btn-lg' style='background-color:#191d14'>Enroll</button>
 </div>
       </fieldset>
       </form>
