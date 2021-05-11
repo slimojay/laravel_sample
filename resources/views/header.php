@@ -6,13 +6,15 @@
 <title>Welcome</title>
 <!-- Tell the browser to be responsive to screen width -->
 <meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1" />
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
         <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
-
+ <script src='https://code.jquery.com/jquery-3.5.1.js'></script>
 <!-- v4.0.0-alpha.6 -->
+ 
 <link rel="stylesheet" href="dist/bootstrap/css/bootstrap.min.css">
 
-<!-- Google Font -->
+<!--  datatables  -->
+ <!--Google Font -->
 <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
 
 <!-- Theme style -->
@@ -48,20 +50,26 @@
     <script src="plugins/jquery-validation/jquery.validate.min.js"></script>
 <!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">-->
 
-<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.22/css/jquery.dataTables.css">
+<!-- adding datatables -->
+
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.24/css/jquery.dataTables.css">
+  
+<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.24/js/jquery.dataTables.js"></script>
+
+<!--<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.22/css/jquery.dataTables.css">
     <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.22/js/jquery.dataTables.js"></script>
-    <link rel=stylesheet href="https://cdn.datatables.net/1.10.23/css/jquery.dataTables.min.css">
+    <link rel=stylesheet href="https://cdn.datatables.net/1.10.23/css/jquery.dataTables.min.css">-->
     <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
 </head>
 <body class="hold-transition skin-blue sidebar-mini">
 <div class="wrapper boxed-wrapper blue-bg text-white">
   <header class="main-header blue-bg"> 
     <!-- Logo --> 
-    <a href="index.html" class="logo blue-bg"> 
+    <a href="index" class="logo blue-bg" style='color:white; font-size:30px; font-family:times new roman; font-weight:800'> 
     <!-- mini logo for sidebar mini 50x50 pixels --> 
-    <span class="logo-mini"><img src="dist/img/logo-n.png" alt=""></span> 
+    <span class="logo-mini"><!--<img src="dist/img/logo-n.png" alt="">-->New<span class="text-secondary">Haven</span></span> 
     <!-- logo for regular state and mobile devices --> 
-    <span class="logo-lg"><img src="dist/img/logo.png" alt=""></span> </a> 
+    <span class="logo-lg">New<span class="text-secondary">Haven</span></span> </a> 
     <!-- Header Navbar: style can be found in header.less -->
     <nav class="navbar blue-bg text-white navbar-static-top"> 
       <!-- Sidebar toggle button-->
@@ -89,7 +97,7 @@
               <li>
                 <ul class="menu">
                   <li><a href="#">
-                    <div class="pull-left"><img src="dist/img/img1.jpg" class="img-circle" alt="User Image"> <span class="profile-status online pull-right"></span></div>
+                    <div class="pull-left"><!--<img src="dist/img/img1.jpg" class="img-circle" alt="User Image">-->NewHaven <span class="profile-status online pull-right"></span></div>
                     <h4>Alex C. Patton</h4>
                     <p>I've finished it! See you so...</p>
                     <p><span class="time">9:30 AM</span></p>
